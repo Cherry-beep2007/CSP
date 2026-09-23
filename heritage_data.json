@@ -1,0 +1,120 @@
+{
+  "hampi": [
+    {
+      "name": "Virupaksha Temple",
+      "category": "Temples & Spiritual",
+      "description": "7th-century active Hindu temple complex dedicated to Lord Shiva, renowned for its 50-meter majestic gopuram and intricate stone carvings.",
+      "cultural_relevance": "UNESCO World Heritage Site; continuous worship center since the Vijayanagara Empire.",
+      "lat": 15.3353,
+      "lon": 76.4600,
+      "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Vithala Temple & Stone Chariot",
+      "category": "Historical Monuments",
+      "description": "Iconic 16th-century architectural masterpiece famous for its musical pillars and the world-renowned Stone Chariot.",
+      "cultural_relevance": "Peak architectural achievement of the Vijayanagara Dynasty, depicted on Indian currency.",
+      "lat": 15.3350,
+      "lon": 76.4770,
+      "image": "https://images.unsplash.com/photo-1600100397608-f010e423b971?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Lotus Mahal & Elephant Stables",
+      "category": "Palaces & Forts",
+      "description": "Secular royal pavilion featuring two-story Indo-Islamic architecture surrounded by manicured lawns and grand elephant quarters.",
+      "cultural_relevance": "Demonstrates peaceful blend of Hindu and Islamic architectural traditions.",
+      "lat": 15.3195,
+      "lon": 76.4716,
+      "image": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "jaipur": [
+    {
+      "name": "Amber Fort (Amer Fort)",
+      "category": "Forts & Palaces",
+      "description": "Majestic hilltop fortress built of red sandstone and marble overlooking Maota Lake, famous for Sheesh Mahal (Mirror Palace).",
+      "cultural_relevance": "Seat of Rajput royalty for centuries; classic Rajput architecture.",
+      "lat": 26.9855,
+      "lon": 75.8513,
+      "image": "https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Hawa Mahal (Palace of Winds)",
+      "category": "Historical Monuments",
+      "description": "Five-story pink sandstone palace adorned with 953 honeycomb windows (jharokhas) designed for royal ladies to observe street life.",
+      "cultural_relevance": "Symbol of Pink City Jaipur built by Maharaja Sawai Pratap Singh in 1799.",
+      "lat": 26.9239,
+      "lon": 75.8267,
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Jantar Mantar Observatory",
+      "category": "Museums & Science",
+      "description": "Astronomical observation site completed in 1734 featuring nineteen architectural instruments including the world's largest stone sundial.",
+      "cultural_relevance": "UNESCO World Heritage Site representing astronomical knowledge in 18th-century India.",
+      "lat": 26.9248,
+      "lon": 75.8246,
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "varanasi": [
+    {
+      "name": "Dashashwamedh Ghat",
+      "category": "Spiritual & Heritage",
+      "description": "The main and most vibrant riverbank ghat on the sacred Ganges River, celebrated for its daily evening Ganga Aarti ceremony.",
+      "cultural_relevance": "Spiritual epicenter of Varanasi; continuous rituals performed since ancient antiquity.",
+      "lat": 25.3069,
+      "lon": 83.0104,
+      "image": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Kashi Vishwanath Temple",
+      "category": "Temples & Spiritual",
+      "description": "One of the twelve sacred Jyotirlingas dedicated to Lord Shiva, featuring gold-plated spires and ancient corridor complex.",
+      "cultural_relevance": "One of the holiest shrines in Hinduism with thousands of years of recorded pilgrimage.",
+      "lat": 25.3109,
+      "lon": 83.0107,
+      "image": "https://images.unsplash.com/photo-1571536802807-30451e3955d8?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "agra": [
+    {
+      "name": "Taj Mahal",
+      "category": "Historical Monuments",
+      "description": "Immense white marble mausoleum built between 1631 and 1648 by Mughal emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal.",
+      "cultural_relevance": "New 7 Wonders of the World and UNESCO World Heritage jewel of Muslim art in India.",
+      "lat": 27.1751,
+      "lon": 78.0421,
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Agra Fort",
+      "category": "Forts & Palaces",
+      "description": "Massive 16th-century red sandstone fortress housing royal palaces like Jahangir Palace and Khas Mahal.",
+      "cultural_relevance": "Main residence of the Mughal emperors until 1638.",
+      "lat": 27.1795,
+      "lon": 78.0211,
+      "image": "https://images.unsplash.com/photo-1585135497273-1a86b09fe70e?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "rome": [
+    {
+      "name": "Colosseum",
+      "category": "Historical Monuments",
+      "description": "Iconic oval amphitheatre in the center of Rome, the largest ancient amphitheatre ever built.",
+      "cultural_relevance": "Symbol of the Roman Empire, gladiatorial history, and architectural grandeur.",
+      "lat": 41.8902,
+      "lon": 12.4922,
+      "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Pantheon",
+      "category": "Historical Monuments",
+      "description": "Former Roman temple, now a Catholic church, boasting the world's largest unreinforced concrete dome.",
+      "cultural_relevance": "Best preserved ancient Roman building in continuous use for almost 2,000 years.",
+      "lat": 41.8986,
+      "lon": 12.4769,
+      "image": "https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+}
